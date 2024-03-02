@@ -1,4 +1,4 @@
-# W3School- (0%) Study
+# W3School- Study
 Progress of study through W3School
 - (0%) HTML
 - (0%) CSS
